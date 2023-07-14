@@ -1,0 +1,17 @@
+#pagina{
+    background-color: rgb(241, 250, 247);
+
+}
+#image{
+    margin-left: 40%;
+}
+#boton{
+height: 60px;
+width: 200px;
+background-color: rgb(250, 244, 244);
+border-radius: 10px;
+margin-left: 20%;
+text-align: center;
+text-decoration: black solid 2px;
+
+}
